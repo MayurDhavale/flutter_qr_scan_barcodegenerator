@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144448000434",
+    "project_id": "fcm-demo-a07bd",
+    "storage_bucket": "fcm-demo-a07bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144448000434:android:075a111cbaecdf73fcd4ab",
+        "android_client_info": {
+          "package_name": "com.example.qr_scan_generate_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ie6t-rv3PjcvSjM9Lt8oYUZGrS9Z3Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
